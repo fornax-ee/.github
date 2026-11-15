@@ -24,8 +24,8 @@ Written from a real factory, for people who have to keep production running whil
 | [**it-ot-boundary-kit**](https://github.com/fornax-ee/it-ot-boundary-kit) | Splitting responsibilities between corporate IT and production/OT: layered ownership, minimum baseline, change coordination, templates |
 | [**cnc-program-history**](https://github.com/fornax-ee/cnc-program-history) | Read-only collection of CNC programs and machine files into Git, so every change has a history |
 | [**local-llm-gateway-smb**](https://github.com/fornax-ee/local-llm-gateway-smb) | Local AI for ~50 users on one GPU server: vLLM behind an OpenAI-compatible gateway, model profiles instead of model names |
-
-**Coming next:** machine data → Grafana · RFID on production lines
+| [**machine-data-grafana**](https://github.com/fornax-ee/machine-data-grafana) | Logging production line data and analysing it in Grafana: collector → PostgreSQL → Grafana, without a full MES |
+| [**rfid-on-production-lines**](https://github.com/fornax-ee/rfid-on-production-lines) | Field notes on RFID on conveyor and overhead lines: read range, zones, mounting, MQTT integration, buying checklist |
 
 ## Focus areas
 

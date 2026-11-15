@@ -36,7 +36,7 @@ Written from a real factory, for people who have to keep production running whil
 - **Planning & reporting** — load forecasts and work-time standards built on real machine data
 - **On-premise AI** — language and vision models on your own servers; factory data stays in-house
 
-## How we build
+## How I build
 
 - **Read-only first.** Observe machines before touching them.
 - **Local where it matters.** Production keeps running when the internet link is down.
